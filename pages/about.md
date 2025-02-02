@@ -4,6 +4,6 @@ title: 안녕하세요. 2조 채유정입니다!
 permalink: /about
 ---
 
-![이미지](/assets/img/dbwjd-1.jpg "채유정-1"){: width="300px"}
+![이미지](/assets/img/dbwjd-1.jpg "채유정-1"){: width="400px"}
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+안녕하세요! 저는 2조 컴퓨터공학과의 채유정입니다. 이번 2025 문화리더에 선정되어 동유럽의 문화를 체험하고 왔는데요, 제가 경험한 것들을 공유해 보고자 이렇게 웹 사이트를 개설하게 되었습니다. 제한된 시간으로 인해 많은 것들을 다루지 못해 아쉽지만 이렇게라도 여러분들께 다시한번 동유럽에서의 기억을 상기시킬 수 있으면 좋겠습니다. 감사합니다!

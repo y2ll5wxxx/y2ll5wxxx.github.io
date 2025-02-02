@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "오스트리아에서"
+title: "헝가리에서"
 author: "채유정"
 categories: resources
 tags: [documentation, sample]
 image: arctic-2.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+가장 먼저 소개할 곳은 헝가리입니다.
+저흰 부다페스트 공항에 도착하였는데요!
 
 ## [Free Code Camp](https://www.freecodecamp.org/)
 
