@@ -1,7 +1,18 @@
 ---
 ---
-$base-font-family: 'Black Han Sans', sans-serif;
-$body-font-family: 'Black Han Sans', sans-serif;
+@font-face {
+    font-family: '온글잎 박다현체';
+    src: url('assets/fonts/온글잎박다현체.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  $base-font-family: '온글잎 박다현체', sans-serif;
+  $body-font-family: '온글잎 박다현체', sans-serif;
+  
+  body {
+    font-family: $base-font-family !important;
+  }
 $code-font-family: "Source Code Pro", monospace;
 
 $brand-color: black;
