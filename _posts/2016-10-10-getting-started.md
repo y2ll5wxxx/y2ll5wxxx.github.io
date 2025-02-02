@@ -11,7 +11,7 @@ image: city-1.jpg
 
 ### 어딘가
 
-#### 식사사
+#### 식사
 
 여행 첫날, [부다페스트](https://travel.naver.com/overseas/HUBUD274887/city/summary)입니다.
 
