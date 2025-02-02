@@ -11,8 +11,8 @@ plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: "2025 문화리더"
-description: "a minimalist Jekyll theme for running a blog or publication"
-author: "Paul Le"
+description: "동유럽 여행기"
+author: "채유정"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
