@@ -7,18 +7,17 @@ disqus:
 google-ID: "UA-112060364-2"
 
 menu:
-  - { name: "소개글", url: "facts" }
+  - { name: "소개글", url: "about" }
   - { name: "헝가리", url: "resources" }
   - { name: "체코", url: "sample-posts" }
   - { name: "오스트리아", url: "documentation" }
-  - { name: "음식", url: "about" }
+  - { name: "음식", url: "facts" }
   - { name: "마무리", url: "contact" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
   - { icon: "instagram", link: "https://instagram.com/jjung._.you" }
   - { icon: "envelope", link: "mailto:y2ll5wxxx@naver.com" }
-  - { icon: "rss-square", link: "rss-feed.xml" }
 
 # Customize site text
 pagination:
