@@ -3,7 +3,7 @@ layout: post
 title: "잘츠부르크에서"
 author: "채유정"
 categories: documentation
-tags: [documentation, sample]
+tags: [sample]
 image: cuba-1.jpg
 ---
 

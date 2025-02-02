@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
+title: 마무리하며
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+처음 포트폴리오 제작을 어떻게 할지 고민이 많았는데, 이렇게 전공을 살려 웹 페이지를 제공할 수 있어 기쁩니다. 조금 부족한 점이 있어도 재미있게 봐주셨으면 좋겠습니다. 감사합니다! 여러분들 행복하세요~

@@ -1,20 +1,18 @@
 ---
 ---
 @font-face {
-    font-family: 'Ownglyph_wiseelist-Rg';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2501-1@1.1/Ownglyph_wiseelist-Rg.woff2') format('woff2');
+    font-family: 'Ownglyph_ParkDaHyun';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2411-3@1.0/Ownglyph_ParkDaHyun.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
   
-$base-font-family: 'Ownglyph_wiseelist-Rg', sans-serif;  /* 설정한 폰트 이름 사용 */
-$body-font-family: 'Ownglyph_wiseelist-Rg', sans-serif;
+$base-font-family: 'Ownglyph_ParkDaHyun', sans-serif;  /* 설정한 폰트 이름 사용 */
+$body-font-family: 'Ownglyph_ParkDaHyun', sans-serif;
 
 body {
     font-family: $base-font-family !important;
 }
-
-
 
 $code-font-family: 'Ownglyph_ParkDaHyun', sans-serif;
 
