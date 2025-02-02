@@ -6,9 +6,16 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Ownglyph_wiseelist-Rg';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2501-1@1.1/Ownglyph_wiseelist-Rg.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
   
 $base-font-family: 'Ownglyph_ParkDaHyun', sans-serif;  /* 설정한 폰트 이름 사용 */
-$body-font-family: 'Ownglyph_ParkDaHyun', sans-serif;
+$body-font-family: 'Ownglyph_wiseelist-Rg', sans-serif;
 
 body {
     font-family: $base-font-family !important;
