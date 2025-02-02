@@ -1,14 +1,14 @@
 ---
 ---
 @font-face {
-    font-family: 'Ownglyph_wiseelist-Rg';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2501-1@1.1/Ownglyph_wiseelist-Rg.woff2') format('woff2');
-    font-weight: normal;
+    font-family: 'HakgyoansimDunggeunmisoTTF-B';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimDunggeunmisoTTF-B.woff2') format('woff2');
+    font-weight: 700;
     font-style: normal;
 }
-  
-$base-font-family: 'Ownglyph_wiseelist-Rg', sans-serif;  /* 설정한 폰트 이름 사용 */
-$body-font-family: 'Ownglyph_wiseelist-Rg', sans-serif;
+
+$base-font-family: 'HakgyoansimDunggeunmisoTTF-B', sans-serif;  /* 설정한 폰트 이름 사용 */
+$body-font-family: 'HakgyoansimDunggeunmisoTTF-B', sans-serif;
 
 body {
     font-family: $base-font-family !important;
