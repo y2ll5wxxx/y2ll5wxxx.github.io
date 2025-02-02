@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "오스트리아에서"
+author: "채유정"
 categories: resources
-tags: [documentation,sample]
+tags: [documentation, sample]
 image: arctic-2.jpg
 ---
 

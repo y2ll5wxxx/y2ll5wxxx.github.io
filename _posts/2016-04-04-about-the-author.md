@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "먹은 것들에 대해"
+author: "채유정"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg
