@@ -12,7 +12,7 @@ menu:
   - { name: "체코", url: "sample-posts" }
   - { name: "오스트리아", url: "documentation" }
   - { name: "음식", url: "about" }
-  - { name: "마무리리", url: "contact" }
+  - { name: "마무리", url: "contact" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
