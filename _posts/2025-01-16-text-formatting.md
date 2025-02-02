@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "체코에서"
+title: "체스키크룸로프에서"
 author: "채유정"
 categories: sample
 tags: [sample]
