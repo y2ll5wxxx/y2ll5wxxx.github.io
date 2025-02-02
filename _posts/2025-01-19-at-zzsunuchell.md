@@ -2,7 +2,7 @@
 layout: post
 title: "e. 슈니첼"
 author: "채유정"
-categories: documentation
+categories: facts
 tags: [documentation]
 image: city-1.jpg
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "2-1. 스비치코바"
+title: "b. 스비치코바"
 author: "채유정"
-categories: sample
+categories: facts
 tags: [sample]
 image: arctic-1.jpg
 ---
