@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "안녕하세요!"
+author: "채유정"
 categories: documentation
-tags: [documentation,sample]
+tags: [documentation, sample]
 image: cuba-1.jpg
 ---
 
