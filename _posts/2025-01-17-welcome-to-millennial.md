@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "안녕하세요!"
+title: "잘츠부르크에서"
 author: "채유정"
 categories: documentation
 tags: [documentation, sample]
