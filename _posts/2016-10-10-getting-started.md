@@ -12,7 +12,7 @@ image: city-1.jpg
 여행 첫날, [부다페스트](https://travel.naver.com/overseas/HUBUD274887/city/summary)입니다.
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
-![이미지 설명](/assets/img/buda-1.jpg "부다페스트 야경")
+![이미지 설명](/assets/img/buda-1.jpg "부다페스트 야경"){: width="600px"}
 
 ## Notable features
 
