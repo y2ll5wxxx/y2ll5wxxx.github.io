@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "반가워요!"
+title: "안녕하세요!"
 author: "채유정"
 categories: documentation
 tags: [documentation, sample]
