@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "굴라쉬!"
+title: "1-1. 굴라쉬"
 author: "채유정"
 categories: facts
 tags: [sample]
