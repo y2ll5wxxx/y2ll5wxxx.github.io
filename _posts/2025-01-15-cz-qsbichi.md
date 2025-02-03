@@ -2,12 +2,13 @@
 layout: post
 title: "b. 스비치코바"
 author: "채유정"
-categories: facts
+categories: facts, sample
 tags: [sample]
 image: sbichi-1.jpg
 ---
 
 ### 스비치코바(Svícková)
 
+**스비치코바**는 안심 부분을 부드럽게 삶아 크림 소스를 끼얹고 크네들리키라는 쫀득한 체코 빵과 함께 먹는 요리입니다! 생크림과 라즈베리 잼도 함께 주기 때문에 조화로운 맛을 느낄 수 있습니다.
+
 ![이미지](/assets/img/buda-2.jpg "스비치코바"){: width="300px"}
-**스비치코바**는
