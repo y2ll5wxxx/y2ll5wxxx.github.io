@@ -2,7 +2,7 @@
 layout: post
 title: "e. 슈니첼"
 author: "채유정"
-categories: facts, documentation
+categories: [facts, documentation]
 tags: [facts, documentation]
 image: sunu-1.jpg
 ---
