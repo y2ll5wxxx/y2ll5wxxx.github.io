@@ -4,7 +4,7 @@ title: "b. 스비치코바"
 author: "채유정"
 categories: facts
 tags: [sample]
-image: arctic-1.jpg
+image: sbichi-1.jpg
 ---
 
 ### 스비치코바(Svícková)

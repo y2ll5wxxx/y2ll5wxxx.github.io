@@ -4,7 +4,7 @@ title: "e. 슈니첼"
 author: "채유정"
 categories: facts
 tags: [documentation]
-image: city-1.jpg
+image: sunu-1.jpg
 ---
 
 ## 부다페스트
