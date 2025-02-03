@@ -3,7 +3,7 @@ layout: post
 title: "a. 굴라쉬"
 author: "채유정"
 categories: facts, resources
-tags: [resources]
+tags: [facts, resources]
 image: food-1.jpg
 ---
 
